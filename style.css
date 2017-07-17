@@ -1,0 +1,37 @@
+body {
+  background-color: #eeeeee;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: #1e1e1e;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: Georgia, serif;
+  font-style: italic;
+  color: #004060
+}
+
+h1 {
+  background-color: #004060;
+  color: #ffffff;
+  padding: 4px 8px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: circle;
+  color: #004060;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+ol {
+  color: #004060;
+  font-size: 16px;
+}
+
+textarea {
+  width: 600px;
+  height: 200px;
+}
